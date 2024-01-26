@@ -3,13 +3,10 @@ import Button from '@mui/material/Button';
 import Stack from '@mui/material/Stack';
 import AddIcon from '@mui/icons-material/Add';
 import { Box } from '@mui/material';
-
 import { useDispatch } from 'react-redux';
 import { computeGraphActions } from '../../../store/ComputeGraph-slice';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import Grid from '@mui/material/Grid';
-
-import Docs from './docs';
 
 const buttonStyles = {
   height: '53px',
