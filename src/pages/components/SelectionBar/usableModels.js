@@ -202,59 +202,11 @@ const SelectModel = () => {
           </Button>
         </Stack>
       </Grid>
-      <Grid
-        item
-        sx={{ height: { xs: '35%', sm: '33%', md: '32%' }, overflow: 'auto' }}
-      >
-        <Stack style={{}} direction="column">
-          <Typography
-            color="grey.500"
-            padding="3px"
-            margin="7px"
-            fontSize="12px"
-          >
-            You need to enable{' '}
-            <strong style={{ color: 'white' }}>WebGPU</strong> in your browser
-            flags!
-          </Typography>
-
-          <Typography
-            color="grey.500"
-            padding="3px"
-            margin="7px"
-            fontSize="12px"
-          >
-            <strong>Add</strong> a Tensor Node by &apos;Right Click&apos; on the
-            Canvas
-          </Typography>
-
-          <Typography
-            color="grey.500"
-            padding="3px"
-            margin="7px"
-            fontSize="12px"
-          >
-            <strong>Connect</strong> two Nodes by dragging from one Node to
-            another
-          </Typography>
-
-          <Typography
-            color="grey.500"
-            padding="3px"
-            margin="7px"
-            fontSize="12px"
-          >
-            <strong>Remove</strong> any Tensor Node or Edge between Nodes by
-            double &apos;Left Click&apos; on it.
-          </Typography>
-          <Docs />
-        </Stack>
-      </Grid>
       <Grid item sx={{ height: { xs: '1%', sm: '1%', md: '1%' } }}>
         <Button
           onClick={() =>
             window.open(
-              'https://github.com/TilliFe/CoViz-Neural-Network-Playground'
+              'https://github.com/Inspired715/React-flow-render'
             )
           }
           variant="contained"
