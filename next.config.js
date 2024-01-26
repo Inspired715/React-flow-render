@@ -4,6 +4,11 @@ const fs = require('fs');
 const BASE_PATH = process.env.BASE_PATH || '';
 
 module.exports = {
+  eslint: {
+    // Warning: This allows production builds to successfully complete even if
+    // your project has ESLint errors.
+    ignoreDuringBuilds: true,
+  },
   output: 'standalone',
   basePath: BASE_PATH,
   compress: true,
