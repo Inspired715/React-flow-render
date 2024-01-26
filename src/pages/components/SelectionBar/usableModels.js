@@ -6,7 +6,6 @@ import { Box } from '@mui/material';
 
 import { useDispatch } from 'react-redux';
 import { computeGraphActions } from '../../../store/ComputeGraph-slice';
-import Typography from '@mui/material/Typography';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import Grid from '@mui/material/Grid';
 
