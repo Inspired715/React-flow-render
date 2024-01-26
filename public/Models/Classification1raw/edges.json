@@ -1,0 +1,114 @@
+[
+  {
+    "source": "4",
+    "sourceHandle": "Source",
+    "target": "6",
+    "targetHandle": "Right",
+    "id": "reactflow__edge-4Source-6Right",
+    "type": "custom",
+    "animated": false
+  },
+  {
+    "source": "5",
+    "sourceHandle": "Source",
+    "target": "6",
+    "targetHandle": "Left",
+    "id": "reactflow__edge-5Source-6Left",
+    "type": "custom",
+    "animated": false
+  },
+  {
+    "source": "9",
+    "sourceHandle": "Source",
+    "target": "8",
+    "targetHandle": "Left",
+    "type": "custom",
+    "id": "reactflow__edge-9Source-8Left",
+    "animated": false,
+    "selected": false
+  },
+  {
+    "source": "0",
+    "sourceHandle": "Source",
+    "target": "8",
+    "targetHandle": "Right",
+    "type": "custom",
+    "id": "reactflow__edge-0Source-8Right",
+    "animated": false,
+    "selected": false
+  },
+  {
+    "source": "2",
+    "sourceHandle": "Source",
+    "target": "7",
+    "targetHandle": "Right",
+    "type": "custom",
+    "id": "reactflow__edge-2Source-7Right",
+    "animated": false
+  },
+  {
+    "source": "10",
+    "sourceHandle": "Source",
+    "target": "7",
+    "targetHandle": "Left",
+    "type": "custom",
+    "id": "reactflow__edge-10Source-7Left",
+    "animated": false
+  },
+  {
+    "source": "7",
+    "sourceHandle": "Source",
+    "target": "4",
+    "targetHandle": "Single",
+    "type": "custom",
+    "id": "reactflow__edge-7Source-4Single",
+    "animated": false
+  },
+  {
+    "source": "12",
+    "sourceHandle": "Source",
+    "target": "13",
+    "targetHandle": "Left",
+    "type": "custom",
+    "id": "reactflow__edge-12Source-13Left",
+    "selected": false,
+    "animated": false
+  },
+  {
+    "source": "11",
+    "sourceHandle": "Source",
+    "target": "13",
+    "targetHandle": "Right",
+    "type": "custom",
+    "id": "reactflow__edge-11Source-13Right",
+    "selected": false,
+    "animated": false
+  },
+  {
+    "source": "8",
+    "sourceHandle": "Source",
+    "target": "14",
+    "targetHandle": "Left",
+    "type": "custom",
+    "id": "reactflow__edge-8Source-14Left",
+    "animated": false
+  },
+  {
+    "source": "13",
+    "sourceHandle": "Source",
+    "target": "14",
+    "targetHandle": "Right",
+    "type": "custom",
+    "id": "reactflow__edge-13Source-14Right",
+    "animated": false
+  },
+  {
+    "source": "14",
+    "sourceHandle": "Source",
+    "target": "2",
+    "targetHandle": "Single",
+    "type": "custom",
+    "id": "reactflow__edge-14Source-2Single",
+    "animated": false
+  }
+]
